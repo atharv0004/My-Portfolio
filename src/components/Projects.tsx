@@ -8,7 +8,7 @@ const Projects = () => {
       tech: ["React", "Tailwind CSS", "Node.js", "MongoDB"],
       link: "https://www.economicgroup.in/",
       status: "Live",
-      image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=500&h=300&fit=crop"
+      image: "https://res.cloudinary.com/dxqsygmg1/image/upload/v1750694766/Screenshot_2025-06-23_212914_sa8yyp.png"
     },
     {
       title: "Sai Baba Logistics",
@@ -16,7 +16,7 @@ const Projects = () => {
       tech: ["React", "Express", "MySQL", "Maps API"],
       link: "https://saibabalogisticsandcompany.com/",
       status: "Live",
-      image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&h=300&fit=crop"
+      image: "https://res.cloudinary.com/dxqsygmg1/image/upload/v1750694868/Screenshot_2025-06-23_213710_sdht7h.png"
     },
     {
       title: "VK Globals",
@@ -24,7 +24,7 @@ const Projects = () => {
       tech: ["React", "TypeScript", "PostgreSQL", "AWS"],
       link: "https://www.vk-globals.com/",
       status: "Live",
-      image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=500&h=300&fit=crop"
+      image: "https://res.cloudinary.com/dxqsygmg1/image/upload/v1750695020/63236e7a-4fa0-4527-82cd-d9610edb7e3e.png"
     }
   ];
 
@@ -60,7 +60,6 @@ const Projects = () => {
                   </span>
                 </div>
               </div>
-              
               <div className="p-6">
                 <h3 className="text-2xl font-bold text-gray-800 mb-3">{project.title}</h3>
                 <p className="text-gray-600 mb-4 leading-relaxed">{project.description}</p>

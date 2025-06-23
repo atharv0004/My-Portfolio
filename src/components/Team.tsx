@@ -7,7 +7,7 @@ const Team = () => {
       role: "Full Stack Developer",
       email: "atharvpatil781@gmail.com.com",
       phone: "+91 9324572415",
-      skills: ["React", "Node.js", "MongoDB", "AWS" , "Tailwind CSS"],
+      skills: ["ReactJS", "Node.js", "MongoDB", "AWS" , "Tailwind CSS"],
       image: "https://res.cloudinary.com/dxqsygmg1/image/upload/v1750574078/WhatsApp_Image_2025-06-22_at_12.04.12_PM_n5zm97.jpg"
     },
     {

@@ -91,9 +91,7 @@ const Services = () => {
               </ul>
               
               <div className="mt-6 pt-6 border-t border-gray-100">
-                <button className={`w-full bg-gradient-to-r ${service.color} text-white py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-300 transform hover:scale-105`}>
-                  Learn More
-                </button>
+                
               </div>
             </div>
           ))}
